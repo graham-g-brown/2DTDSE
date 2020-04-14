@@ -1,0 +1,5 @@
+TD_SIMULATION = 0
+
+N_t = 8192
+tau0 = 1.50 * femtosecond_au
+I0 = 10.0E14 * intensity_au
